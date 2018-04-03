@@ -3,6 +3,7 @@ package com.orangehr.irangi.selenium.util;
 public class Constants {
 
     public static final String BASE_URL="http://opensource.demo.orangehrmlive.com/";
+    public static final String TEST_VCS ="";
     public static final String BASE_URL2="http://jobspandora.com/topjobs/home";
     public static final String USER_NAME="Admin";
     public static final String USER_PASSWORD="admin";
